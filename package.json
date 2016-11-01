@@ -1,0 +1,17 @@
+{
+  "name": "node-maestro-board-io",
+  "version": "1.0.0",
+  "description": "Johnny five IO plugin for Pololu Maestro servo controllers.",
+  "main": "index.js",
+  "repository": {
+    "url": "svbatalov/node-maestro-board-io",
+    "type": "git"
+  },
+  "author": "Batalov Sergey",
+  "license": "MIT",
+  "dependencies": {
+    "board-io": "^3.0.5",
+    "pololu-maestro": "https://github.com/svbatalov/node-pololumaestro.git",
+    "winston": "^2.2.0"
+  }
+}
